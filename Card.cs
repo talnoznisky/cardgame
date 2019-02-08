@@ -6,14 +6,16 @@ namespace cardgame
 {
     public class Card
     {
-        public Card(string suit, string value)
+        public Card(string suit, string value, int score)
         {
             Suit = suit;
             Value = value;
+            Score = score;
         }
 
         public string Suit { get; }
         public string Value { get; }
+        public int Score { get; }
 
 
         public override string ToString()
