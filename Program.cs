@@ -20,6 +20,10 @@ namespace cardgame
             Console.ReadLine();
           */
             string[] PlayerNames = { "Tal", "Mischa" };
+            Game game = new Game();
+            game.RunGame(PlayerNames);
+
+
 
 
                        
