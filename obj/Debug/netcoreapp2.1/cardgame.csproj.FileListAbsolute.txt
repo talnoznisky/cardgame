@@ -1,11 +1,3 @@
-/Users/talnoznisky/Desktop/coding-temple/card-game/bin/Debug/netcoreapp2.1/cardgame.deps.json
-/Users/talnoznisky/Desktop/coding-temple/card-game/bin/Debug/netcoreapp2.1/cardgame.runtimeconfig.json
-/Users/talnoznisky/Desktop/coding-temple/card-game/bin/Debug/netcoreapp2.1/cardgame.runtimeconfig.dev.json
-/Users/talnoznisky/Desktop/coding-temple/card-game/bin/Debug/netcoreapp2.1/cardgame.dll
-/Users/talnoznisky/Desktop/coding-temple/card-game/bin/Debug/netcoreapp2.1/cardgame.pdb
-/Users/talnoznisky/Desktop/coding-temple/card-game/obj/Debug/netcoreapp2.1/cardgame.csprojAssemblyReference.cache
 /Users/talnoznisky/Desktop/coding-temple/card-game/obj/Debug/netcoreapp2.1/cardgame.csproj.CoreCompileInputs.cache
 /Users/talnoznisky/Desktop/coding-temple/card-game/obj/Debug/netcoreapp2.1/cardgame.AssemblyInfoInputs.cache
 /Users/talnoznisky/Desktop/coding-temple/card-game/obj/Debug/netcoreapp2.1/cardgame.AssemblyInfo.cs
-/Users/talnoznisky/Desktop/coding-temple/card-game/obj/Debug/netcoreapp2.1/cardgame.dll
-/Users/talnoznisky/Desktop/coding-temple/card-game/obj/Debug/netcoreapp2.1/cardgame.pdb

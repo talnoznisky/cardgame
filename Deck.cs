@@ -7,7 +7,8 @@ namespace cardgame
 {
     public class Deck
     {
-        //This is a special type of method called a constructor.
+      
+          //This is a special type of method called a constructor.
         //it is run every time you create a deck of cards
         public Deck()
         {
