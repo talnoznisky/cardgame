@@ -1,0 +1,34 @@
+﻿<Properties StartupConfiguration="{13944C25-8F16-4F6E-8C13-333CBBD90176}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Deck.cs">
+    <Files>
+      <File FileName="Program.cs" Line="25" Column="2" />
+      <File FileName="Card.cs" Line="25" Column="1" />
+      <File FileName="Deck.cs" Line="51" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="card-game" expanded="True">
+            <Node name="card-game" expanded="True">
+              <Node name="Deck.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State name="__root__">
+          <Node name="card-game" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.card-game FirstBuild="True" PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../morning-challenge-2-7/Program.cs" line="31" offsetX="516" offsetY="480" expression="i" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
